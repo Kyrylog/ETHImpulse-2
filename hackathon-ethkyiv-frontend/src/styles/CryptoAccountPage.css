@@ -1,0 +1,27 @@
+.crypto-account {
+    max-width: 600px;
+    margin: 2rem auto;
+    padding: 1.5rem;
+    background: rgba(0, 0, 0, 0.6);
+    color: #fff;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    font-family: Arial, sans-serif;
+  }
+  
+  .crypto-account h1 {
+    font-size: 2rem;
+    text-align: center;
+    margin-bottom: 2.5rem;
+    color: var(--color-text);
+  }
+  
+  .crypto-account p {
+    font-size: 1.1rem;
+    line-height: 1.5;
+  }
+  
+  .crypto-account p strong {
+    color: var(--color-accent);
+  }
+  
